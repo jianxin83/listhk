@@ -10,8 +10,6 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS
 http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong",天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong",HBO-原创
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong",SiTV欢笑剧场
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="Hong Kong",翡翠华丽台
