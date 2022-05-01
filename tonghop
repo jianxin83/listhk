@@ -5,13 +5,23 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="Hong Kong",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="Hong Kong",凤凰香港
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 #EXTINF:-1 ,凤凰香港2
 http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 ,翡翠台
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="Hong Kong",亚洲新闻 mediacorp
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,龙华电影
+http://61.221.81.93:8597/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 ,龙华偶像
+http://61.221.81.93:8591/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 ,澳门资讯
+http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,Discovery
+http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+#EXTINF:-1 ,香港RHK32
+http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 #EXTINF:-1 ,翡翠台
 #http://radius.8866.org:880/hls/80/index.m3u8
 
