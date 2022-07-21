@@ -18,12 +18,19 @@ http://61.221.81.93:8597/hls/210/10014/cstv14.m3u8
 http://61.221.81.93:8591/hls/210/10012/cstv12.m3u8
 #EXTINF:-1 ,澳门资讯
 http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,Discovery
-http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+#EXTINF:-1 ,ABC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 ,香港RHK32
 http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 #EXTINF:-1 ,翡翠台
 #http://radius.8866.org:880/hls/80/index.m3u8
+#EXTINF:-1 ,Watch it kid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 ,ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Smithsonian Channel Asia
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
