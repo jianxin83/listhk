@@ -10,6 +10,8 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 https://www.nettvpro.live/hls/lotustv.php
 #EXTINF:-1 ,澳门资讯
 http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,Xing Kong International (360p)
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 ,HBO2台
