@@ -21,8 +21,6 @@ https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:-1 ,Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -219,8 +217,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Eng",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="Eng",3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 
 #EXTINF:-1 group-title="Film",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
