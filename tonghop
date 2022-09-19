@@ -17,12 +17,14 @@ http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 ,HBO2台
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 ,Watch it kid
-https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 ,ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Watch it kid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 group-title="Kids",3ABN Kids Network (720p)
 https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
 
