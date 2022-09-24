@@ -6,35 +6,50 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="Hong Kong",凤凰香港
 #http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,澳门莲花
+#EXTINF:-1 group-title="Hong Kong",澳门莲花
 https://www.nettvpro.live/hls/lotustv.php
-#EXTINF:-1 ,澳门资讯
+#EXTINF:-1 group-title="Hong Kong",澳门资讯
 http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,Xing Kong International (360p)
+#EXTINF:-1 group-title="Hong Kong",有線新聞台
+http://livetv.dnsfor.me/channel.5.m3u8
+#https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="Hong Kong",Xing Kong International (360p)
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-#EXTINF:-1 ,CHC动作电影
+#EXTINF:-1 group-title="Hong Kong",CHC动作电影
 http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 ,HBO2台
+#EXTINF:-1 group-title="Hong Kong",HBO2台
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Hong Kong",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 group-title="Hong Kong",CNC英语 (720p) [Not 24/7]
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
-#EXTINF:-1 ,ZooMoo
+#EXTINF:-1 group-title="Kids", ,ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Da Vinci HD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Watch it kid
-https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #EXTINF:-1 group-title="Kids",3ABN Kids Network (720p)
 https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
+#EXTINF:-1 group-title="Kids",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1 group-title="Kids",Da Vinci
+http://sc.id-tv.kz/DaVinci_38_39.m3u8
+#EXTINF:-1 group-title="Kids",Pluto TV Nick Jr. (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede45451dce190007ef9ff2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&terminate=false&userId=
 
-#EXTINF:-1 ,Smithsonian Channel Asia
+
+#EXTINF:-1 group-title="News",Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong",亚洲新闻 mediacorp
+#EXTINF:-1 group-title="News",亚洲新闻 mediacorp
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,ABC NEWS
+#EXTINF:-1 group-title="News",ABC NEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-
+#EXTINF:-1 group-title="News",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="News",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
