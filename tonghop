@@ -33,6 +33,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Toonmax TV 
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 group-title="Kids",Da Vinci HD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. Dora TV
@@ -41,8 +43,7 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 group-title="Kids",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
-#EXTINF:-1 group-title="Kids",Lego Channel 
-#https://legochannel-roku.amagi.tv/playlist.m3u8-----------
+
 
 
 #EXTINF:-1 group-title="News",Smithsonian Channel Asia
