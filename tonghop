@@ -24,6 +24,8 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong",Celestial Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 group-title="Hong Kong",Celestial Classic 天映经典 (Celestial Classic Movies)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",CNC英语 (720p) [Not 24/7]
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
@@ -36,15 +38,15 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Toonmax TV 
 http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 group-title="Kids",Da Vinci HD
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. Dora TV
-https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-#EXTINF:-1 group-title="Kids",Nickelodeon
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
+#EXTINF:-1 group-title="Kids",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Nick
-https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
-
-
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8
+#EXTINF:-1 group-title="Kids",Battery Pop
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1 group-title="News",Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -56,8 +58,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="News",Nature GEO
 https://mytv.maoy.cc/3w46p9m00nc
-#EXTINF:-1 group-title="News",Bloomberg TV Asia (720p)
-#https://bloomberg.com/media-manifest/streams/asia.m3u8--------------
+#EXTINF:-1 group-title="News",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="News",CNN
 #https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8--------------
 
