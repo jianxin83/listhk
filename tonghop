@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:5 group-title="Hong Kong",凤凰中文
+#EXTINF:-1 group-title="Hong Kong",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:6 group-title="Hong Kong",凤凰资讯
+#EXTINF:-1 group-title="Hong Kong",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:7 group-title="Hong Kong",凤凰香港
+#EXTINF:-1 group-title="Hong Kong",凤凰香港
 #http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",澳门莲花
 https://www.nettvpro.live/hls/lotustv.php
@@ -16,36 +16,31 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="Hong Kong",Xing Kong International (360p)
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-#EXTINF:-1 group-title="Hong Kong",CHC动作电影
-#http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8------------
-#EXTINF:-1 group-title="Hong Kong",HBO2台
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong",Celestial Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",Celestial Classic 天映经典 (Celestial Classic Movies)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",CNC英语 (720p) [Not 24/7]
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 group-title="Hong Kong",HBO2台
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids",Three Angels Broadcasting Network Kids Network (3ABN)
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Battery Pop
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Three Angels Broadcasting Network Kids Network (3ABN)
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="Kids",Toonmax TV 
 http://210.210.155.37/qwr9ew/s/s50/index.m3u8
-#EXTINF:-1 group-title="Kids",Nick Jr. Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
 #EXTINF:-1 group-title="Kids",HappyKids Junior (720p)
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8
-#EXTINF:-1 group-title="Kids",Da Vinci HD
-#https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 group-title="Kids",Nick Jr. Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
 
 #EXTINF:-1 group-title="News",Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -228,10 +223,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế",FTV
 https://mytv.maoy.cc/fut1hwhllwl
 
-#EXTINF:-1 group-title="Kids",HappyKids
-https://happykids-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",HappyKids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:0 ,VTV1 HD
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
