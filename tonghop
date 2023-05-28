@@ -25,6 +25,8 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong",HBO2台
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Battery Pop
