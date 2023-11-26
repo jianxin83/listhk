@@ -12,6 +12,8 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlay
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong",香港开电视 / HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="Hong Kong",EBC Foreign Movies
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",Xing Kong International (360p)
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 group-title="Hong Kong",Celestial Movies (Indonesian Subtitle) (576p)
@@ -28,6 +30,14 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network Asia
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="KidS",Animal Planet SEA HD
+http://cdnlive.vthanhtivi.pw/animal/index.m3u8
+#EXTINF:-1 group-title="KidS",BBC Earth Asia
+http://cdnlive.vthanhtivi.pw/bbcearth/index.m3u8
+#EXTINF:-1 group-title="KidS",Discovery Channel SEA HD
+http://cdnlive.vthanhtivi.pw/discovery/index.m3u8
 
 
 #EXTINF:-1 group-title="News",Smithsonian Channel Asia
@@ -42,15 +52,64 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-
 #EXTINF:-1 group-title="News VN",VTC1HD
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
+#EXTINF:-1 group-title="News VN",VTC2HD
+https://1117560646.vnns.net/VTC2/livevtcnow/VTC2_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC3HD
+https://1117560646.vnns.net/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC4HD
+https://1117560646.vnns.net/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC5HD
+https://1117560646.vnns.net/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC6HD
+https://1117560646.vnns.net/VTC6/livevtcnow/VTC6_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC7HD
+https://1117560646.vnns.net/VTC7/livevtcnow/VTC7_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC8HD
+https://1117560646.vnns.net/VTC8/livevtcnow/VTC8_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC9HD
+https://1117560646.vnns.net/VTC9/livevtcnow/VTC9_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC10HD
+https://1117560646.vnns.net/VTC10/livevtcnow/VTC10_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC11HD
+https://1117560646.vnns.net/VTC11/livevtcnow/VTC11_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC12HD
+https://1117560646.vnns.net/VTC12/livevtcnow/VTC12_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC13HD
+https://1117560646.vnns.net/VTC13/livevtcnow/VTC13_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC14HD
+https://1117560646.vnns.net/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
+#EXTINF:-1 group-title="News VN",VTC16HD
+https://1117560646.vnns.net/VTC16/livevtcnow/VTC16_720p/chunks.m3u8
 #EXTINF:-1 group-title="News VN",VTV1
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="News VN",BEARTV
-http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="News VN",HTV7
 https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
+#EXTINF:-1 group-title="News VN",BEARTV
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="Film",AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="Film",Cinemax Asia
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+#EXTINF:-1 group-title="Film",HBO Asia
+https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 group-title="Film",Star Movies HD
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
+
+#EXTINF:-1 group-title="China",CCTV-4 中文国际（亚）
+https://ctrl.laotv.la/live/CCTV4A/index.m3u8
+#EXTINF:-1 group-title="China",CCTV-5+ 体育赛事
+https://edge1.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1 group-title="China",CCTV-7 国防军事
+https://ctrl.laotv.la/live/CCTV7/index.m3u8
+#EXTINF:-1 group-title="China",CCTV-8 电视剧
+https://ctrl.laotv.la/live/CCTV8/index.m3u8
+#EXTINF:-1 group-title="China",CCTV-14 少儿
+https://ctrl.laotv.la/live/CCTV14/index.m3u8
+#EXTINF:-1 group-title="China",CCTV-15 音乐
+https://ctrl.laotv.la/live/CCTV15/index.m3u8
+#EXTINF:-1 group-title="China",Celestial Movies
+https://ctrl.laotv.la/live/CHCA/index.m3u8
+
