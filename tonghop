@@ -44,7 +44,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 
 #EXTINF:-1 group-title="News VN",VTC1HD
-https://1117141481.vnns.net/vtc1_hd/chunks.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
 #EXTINF:-1 group-title="News VN",VTV1
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="News VN",BEARTV
