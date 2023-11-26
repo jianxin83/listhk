@@ -1,19 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Hong Kong",凤凰中文
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#http://210.210.155.37/uq2663/h/h157/index2.m3u8
+https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",鳳凰資訊
-http://210.210.155.35/qwr9ew/s/s21/index.m3u8
-#EXTINF:-1 group-title="Hong Kong",澳视澳门
-http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Hong Kong",有線新聞台
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong",香港开电视 / HKSTV-HKS
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#http://210.210.155.35/qwr9ew/s/s21/index.m3u8
+https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",EBC Foreign Movies
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 group-title="Hong Kong",Celestial Movies
+https://ctrl.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",Xing Kong International (360p)
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 group-title="Hong Kong",Celestial Movies (Indonesian Subtitle) (576p)
@@ -21,9 +17,17 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",Celestial Classic 天映经典 (Celestial Classic Movies)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
+#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Hong Kong",有線新聞台
+#https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="Hong Kong",香港开电视 / HKSTV-HKS
+#http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="Hong Kong",澳视澳门
+#http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Hong Kong",CinemaWorld
-http://210.210.155.35/dr9445/h/h04/index.m3u8
+
+
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids",ZooMoo
@@ -110,6 +114,5 @@ https://ctrl.laotv.la/live/CCTV8/index.m3u8
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
 #EXTINF:-1 group-title="China",CCTV-15 音乐
 https://ctrl.laotv.la/live/CCTV15/index.m3u8
-#EXTINF:-1 group-title="China",Celestial Movies
-https://ctrl.laotv.la/live/CHCA/index.m3u8
+
 
