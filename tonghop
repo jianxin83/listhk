@@ -20,11 +20,11 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network Asia
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="KidS",Animal Planet SEA HD
+#EXTINF:-1 group-title="Kids",Animal Planet SEA HD
 http://cdnlive.vthanhtivi.pw/animal/index.m3u8
-#EXTINF:-1 group-title="KidS",BBC Earth Asia
+#EXTINF:-1 group-title="Kids",BBC Earth Asia
 http://cdnlive.vthanhtivi.pw/bbcearth/index.m3u8
-#EXTINF:-1 group-title="KidS",Discovery Channel SEA HD
+#EXTINF:-1 group-title="Kids",Discovery Channel SEA HD
 http://cdnlive.vthanhtivi.pw/discovery/index.m3u8
 
 
@@ -100,23 +100,23 @@ https://ctrl.laotv.la/live/CCTV8/index.m3u8
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
 #EXTINF:-1 group-title="China",CCTV-15 音乐
 https://ctrl.laotv.la/live/CCTV15/index.m3u8
-#EXTINF:-1 group-title="Hong Kong",凤凰中文
+#EXTINF:-1 group-title="Hong Kong 1",凤凰中文
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 
-#EXTINF:-1 group-title="Hong Kong",鳳凰資訊
+#EXTINF:-1 group-title="Hong Kong 1",鳳凰資訊
 http://210.210.155.35/qwr9ew/s/s21/index.m3u8
-#EXTINF:-1 group-title="Hong Kong",Xing Kong International (360p)
+#EXTINF:-1 group-title="Hong Kong 1",Xing Kong International (360p)
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-#EXTINF:-1 group-title="Hong Kong",Celestial Movies (Indonesian Subtitle) (576p)
+#EXTINF:-1 group-title="Hong Kong 1",Celestial Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="Hong Kong",Celestial Classic 天映经典 (Celestial Classic Movies)
+#EXTINF:-1 group-title="Hong Kong 1",Celestial Classic 天映经典 (Celestial Classic Movies)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
+#EXTINF:-1 tvg-id="" group-title="Hong Kong 1" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Hong Kong",有線新聞台
+#EXTINF:-1 group-title="Hong Kong 1",有線新聞台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong",香港开电视 / HKSTV-HKS
+#EXTINF:-1 group-title="Hong Kong 1",香港开电视 / HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="Hong Kong",澳视澳门
+#EXTINF:-1 group-title="Hong Kong 1",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 
