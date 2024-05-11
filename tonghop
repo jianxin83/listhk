@@ -1,16 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Hong Kong",凤凰中文
-#http://210.210.155.37/uq2663/h/h157/index2.m3u8
-https://ctrl.laotv.la/live/PhxChinese/index.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="Hong Kong",鳳凰資訊
-#http://210.210.155.35/qwr9ew/s/s21/index.m3u8
-https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="Hong Kong",EBC Foreign Movies
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 group-title="Hong Kong",Celestial Movies
-https://ctrl.laotv.la/live/CHCA/index.m3u8
-
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="Hong Kong",凤凰香港
+https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
 
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -19,13 +14,13 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network Asia
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Kids",Animal Planet SEA HD
-http://cdnlive.vthanhtivi.pw/animal/index.m3u8
+#http://cdnlive.vthanhtivi.pw/animal/index.m3u8
 #EXTINF:-1 group-title="Kids",BBC Earth Asia
-http://cdnlive.vthanhtivi.pw/bbcearth/index.m3u8
+#http://cdnlive.vthanhtivi.pw/bbcearth/index.m3u8
 #EXTINF:-1 group-title="Kids",Discovery Channel SEA HD
-http://cdnlive.vthanhtivi.pw/discovery/index.m3u8
+#http://cdnlive.vthanhtivi.pw/discovery/index.m3u8
 
 
 #EXTINF:-1 group-title="News",Smithsonian Channel Asia
