@@ -39,34 +39,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #EXTINF:-1 group-title="News VN",VTC1HD
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
-#EXTINF:-1 group-title="News VN",VTC2HD
-https://1117560646.vnns.net/VTC2/livevtcnow/VTC2_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC3HD
-https://1117560646.vnns.net/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC4HD
-https://1117560646.vnns.net/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC5HD
-https://1117560646.vnns.net/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC6HD
-https://1117560646.vnns.net/VTC6/livevtcnow/VTC6_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC7HD
-https://1117560646.vnns.net/VTC7/livevtcnow/VTC7_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC8HD
-https://1117560646.vnns.net/VTC8/livevtcnow/VTC8_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC9HD
-https://1117560646.vnns.net/VTC9/livevtcnow/VTC9_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC10HD
-https://1117560646.vnns.net/VTC10/livevtcnow/VTC10_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC11HD
-https://1117560646.vnns.net/VTC11/livevtcnow/VTC11_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC12HD
-https://1117560646.vnns.net/VTC12/livevtcnow/VTC12_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC13HD
-https://1117560646.vnns.net/VTC13/livevtcnow/VTC13_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC14HD
-https://1117560646.vnns.net/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
-#EXTINF:-1 group-title="News VN",VTC16HD
-https://1117560646.vnns.net/VTC16/livevtcnow/VTC16_720p/chunks.m3u8
 #EXTINF:-1 group-title="News VN",VTV1
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 group-title="News VN",VTV3
