@@ -6,6 +6,10 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="Hong Kong",凤凰香港
 https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
+#EXTINF:-1 group-title="News VN",VTC1
+#https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
+#EXTINF:-1 group-title="News VN",VTV1
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -13,22 +17,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Network Asia
-#https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="Kids",Animal Planet SEA HD
-#http://cdnlive.vthanhtivi.pw/animal/index.m3u8
-#EXTINF:-1 group-title="Kids",BBC Earth Asia
-#http://cdnlive.vthanhtivi.pw/bbcearth/index.m3u8
-#EXTINF:-1 group-title="Kids",Discovery Channel SEA HD
-#http://cdnlive.vthanhtivi.pw/discovery/index.m3u8
 
 
-#EXTINF:-1 group-title="News",Smithsonian Channel Asia
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",亚洲新闻 mediacorp
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="News",Bloomberg Television Asia
-http://210.210.155.35/dr9445/h/h03/01.m3u8
 #EXTINF:-1 group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News",CGTN (576p)
@@ -37,26 +29,22 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-#EXTINF:-1 group-title="News VN",VTC1HD
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/04.m3u8
-#EXTINF:-1 group-title="News VN",VTV1
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network Asia
+#EXTINF:-1 group-title="Kids",Animal Planet SEA HD
+#EXTINF:-1 group-title="Kids",BBC Earth Asia
+#EXTINF:-1 group-title="Kids",Discovery Channel SEA HD
+#EXTINF:-1 group-title="News",Smithsonian Channel Asia
+#EXTINF:-1 group-title="News",Bloomberg Television Asia
 #EXTINF:-1 group-title="News VN",VTV3
-https://edge1.laotv.la/live/VTV3/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 group-title="News VN",HTV7
-http://str1.cvtv.xyz/htv7?token=live
+
 #EXTINF:-1 group-title="News VN",BEARTV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-
 #EXTINF:-1 group-title="Film",AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="Film",Cinemax Asia
-https://ctrl.laotv.la/live/Cinemax/index.m3u8
 #EXTINF:-1 group-title="Film",HBO Asia
-#https://ctrl.laotv.la/live/HBO/index.m3u8
-http://fpt.vthanhtivi.pw/hbo/index.m3u8
 #EXTINF:-1 group-title="Film",Star Movies HD
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
 
 #EXTINF:-1 group-title="China",CCTV-4 中文国际（亚）
 https://ctrl.laotv.la/live/CCTV4A/index.m3u8
