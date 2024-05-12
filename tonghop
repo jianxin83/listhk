@@ -12,6 +12,10 @@ https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 group-title="Hong Kong 1",Celestial Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 group-title="Hong Kong 1",澳视澳门
+https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+#EXTINF:-1 group-title="Hong Kong 1",大湾区卫视
+http://64.140.167.170:8080/live/dwqws/hls.m3u8
 
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -49,7 +53,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 group-title="Hong Kong 1",Xing Kong International (360p)
 #EXTINF:-1 group-title="Hong Kong 1",Celestial Classic 天映经典 (Celestial Classic Movies)
 #EXTINF:-1 group-title="Hong Kong 1",有線新聞台
-#EXTINF:-1 group-title="Hong Kong 1",香港开电视 / HKSTV-HKS
-#EXTINF:-1 group-title="Hong Kong 1",澳视澳门
+#EXTINF:-1 group-title="Hong Kong 1",香港开电视 
+#EXTINF:-1 group-title="Hong Kong 1",澳视澳门, 翡翠台
 
 
