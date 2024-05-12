@@ -15,7 +15,10 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 group-title="Hong Kong 1",澳视澳门
 https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
 #EXTINF:-1 group-title="Hong Kong 1",大湾区卫视
-http://64.140.167.170:8080/live/dwqws/hls.m3u8
+#http://64.140.167.170:8080/live/dwqws/hls.m3u8
+http://59.42.180.216:8848/udp/239.77.1.12:5146
+#EXTINF:-1 group-title="Hong Kong 1",经济科教
+http://59.42.180.216:8848/udp/239.77.0.8:5146
 
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -23,6 +26,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",广东少儿
+http://59.42.180.216:8848/udp/239.77.0.12:5146
+#EXTINF:-1 group-title="Kids",嘉佳卡通
+http://59.42.180.216:8848/udp/239.77.0.13:5146
 
 #EXTINF:-1 group-title="News VN",BEARTV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
