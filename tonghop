@@ -14,17 +14,27 @@ http://p1.cvtv.xyz/htv7?token=live
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network Asia
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 group-title="Kids",Cartoonito Asia
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News",Phoenix Infonews
 http://p2.cvtv.xyz:81/phx?token=live
+#EXTINF:-1 group-title="News",CCTV-4
+http://p2.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 group-title="News",亚洲新闻 mediacorp
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="News",CGTN (576p)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="News",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="News",ABC Australia
+http://49.0.64.96:8007/ABC
 #EXTINF:-1 group-title="Film",AMG
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
