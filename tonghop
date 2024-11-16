@@ -1,14 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="News",VTC1
-http://p1.cvtv.xyz/vtc1?token=live
+https://stream1.freetv.fun/vtc1-2.m3u8
+#EXTINF:-1 group-title="News",VTC14
+https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8
+#http://p1.cvtv.xyz/vtc1?token=live
 #EXTINF:-1 group-title="News",VTV1
-http://p1.cvtv.xyz/vtv1?token=live
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8|Referer=http://sctvonline.vn/
+#http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 group-title="News",VTV3
-http://p1.cvtv.xyz/vtv3?token=live
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
+#http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 group-title="News",HTV7
-http://p1.cvtv.xyz/htv7?token=live
-
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
+#http://p1.cvtv.xyz/htv7?token=live
+#EXTINF:-1 group-title="News",HTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
