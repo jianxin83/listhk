@@ -2,12 +2,6 @@
 
 #bit.ly/xemiptv83
 
-#EXTINF:-1 group-title="News",VTC1
-https://stream1.freetv.fun/vtc1-2.m3u8
-#http://p1.cvtv.xyz/vtc1?token=live (link còn dùng được)
-#EXTINF:-1 group-title="News",VTC14
-https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8
-#http://p1.cvtv.xyz/vtc1?token=live
 #EXTINF:-1 group-title="News",VTV1
 http://p1.cvtv.xyz/vtv1?token=live
 #https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8|Referer=http://sctvonline.vn/
@@ -25,10 +19,6 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonl
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Network Asia
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="Kids",Cartoonito Asia
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -45,8 +35,6 @@ http://p1.cvtv.xyz:81/cgtn?token=live
 #https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="News",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="News",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="News",ABC Australia
 http://49.0.64.96:8007/ABC
 #EXTINF:-1 group-title="Film",AMG
