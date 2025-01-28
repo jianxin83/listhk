@@ -1,3 +1,5 @@
+#bit.ly xemiptvall
+
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz, https://khanggtivi.xyz/kubolive_epg.xml"
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubolive Channel" tvg-logo="https://khanggtivi.xyz/kubolive.png", KuboLive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
