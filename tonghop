@@ -2,18 +2,6 @@
 
 #bit.ly/xemiptv83
 
-#EXTINF:-1 group-title="VTV",VTV1
-http://p1.cvtv.xyz/vtv1?token=live
-#https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8|Referer=http://sctvonline.vn/
-#http://p1.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 group-title="VTV",VTV3
-http://p1.cvtv.xyz/vtv3?token=live
-#https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="HTV",HTV7
-http://p1.cvtv.xyz/htv7?token=live
-#https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="HTV",HTV9
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="HTV",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 
@@ -23,23 +11,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids 
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",K+KIDS HD SCTV
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
 
-#EXTINF:-1 group-title="News",Phoenix Infonews
-#http://p2.cvtv.xyz:81/phx?token=live
-http://p1.cvtv.xyz:81/phx?token=live
-#EXTINF:-1 group-title="News",CCTV-4
-#http://p2.cvtv.xyz:81/c4?token=live
-http://p1.cvtv.xyz:81/c4?token=live
+
 #EXTINF:-1 group-title="News",亚洲新闻 mediacorp
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="Film",Celestial Movies
-http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052704.ts
-#EXTINF:-1 group-title="News",CGTN (1080p)
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
-#http://p1.cvtv.xyz:81/cgtn?token=live
-#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="News",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -50,29 +25,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:-1 group-title="News",TVB News Sat
 https://tvb.860775.xyz/I-NEWS
-#EXTINF:-1 group-title="News",凤凰中文
-http://223.19.212.121:20131/bysid/258
 #EXTINF:-1 group-title="Film",TVB Xing He
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="News",Discovery Asia
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/720375231
-#EXTINF:-1 group-title="News",HGTV
-https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 group-title="Film",ON Phim Việt
-https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 group-title="Film",HBO Hit
-http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052512.ts
-#EXTINF:-1 group-title="Film",HBO Family HD
- http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052503.ts
-
-
-#EXTINF:-1 group-title="K+",K+ACTION
-https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-#EXTINF:-1 group-title="K+",K+ Cine
-https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-#EXTINF:-1 group-title="K+",ON Sports HD
-https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
-
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
