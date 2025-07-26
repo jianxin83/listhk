@@ -3,7 +3,7 @@
 #bit.ly/xemiptv83
 
 #EXTINF:-1 group-title="HTV",HTV1
-https://vc.101vn.com/htv/htvcmb.php?id=2631
+#https://vc.101vn.com/htv/htvcmb.php?id=2631
 
 #EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv1-hd/KenhCoBan",VTV1 HD
 https://xem.TruyenHinh.Click/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -48,18 +48,6 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://tvb.860775.xyz/I-NEWS
 #EXTINF:-1 group-title="Film",TVB Xing He
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-
-
-
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
-http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV" ,VTV1
